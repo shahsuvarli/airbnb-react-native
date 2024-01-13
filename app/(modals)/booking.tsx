@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Modal = () => {
+const Page = () => {
   return (
     <View>
-      <Text>Modal</Text>
+      <Text>Book</Text>
     </View>
   )
 }
 
-export default Modal
+export default Page
