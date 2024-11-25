@@ -21,7 +21,6 @@ Welcome to the Airbnb Clone project! This mobile application replicates the core
 - ⚛️ **React Native**: Cross-platform mobile development framework.
 - 🔄 **Redux**: State management for predictable behavior.
 - 🌍 **React Navigation**: Smooth and customizable navigation.
-- 🔐 **Firebase Auth**: User authentication and backend services.
 - 🗺️ **MapView**: Integration with maps for location-based services.
 
 ---
@@ -55,21 +54,9 @@ Welcome to the Airbnb Clone project! This mobile application replicates the core
 
 ---
 
-## 🖼️ Screenshots
-
-Coming soon! 📸
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please open an issue or submit a pull request if you'd like to help improve this project.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
